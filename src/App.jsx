@@ -312,7 +312,7 @@ export default function HeroSection() {
       {/* Footer */}
       <footer className="footer">
         <p>
-          Built with React & Modern CSS • Ready for GitHub push
+          Shaped, Shaded and Score by Jerry. With ❤️
         </p>
       </footer>
     </div>
