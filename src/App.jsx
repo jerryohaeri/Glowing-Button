@@ -312,7 +312,7 @@ export default function HeroSection() {
       {/* Footer */}
       <footer className="footer">
         <p>
-          Shaped, Shaded and Score by Jerry. With ❤️
+          Shaped, Shaded and Scored by Jerry. With ❤️
         </p>
       </footer>
     </div>
